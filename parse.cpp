@@ -1,0 +1,1 @@
+[0].mapping["f31dd1a7-0b99-4334-a70a-473210243fcc"].message.content.parts[0]

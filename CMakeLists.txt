@@ -1,11 +1,13 @@
 cmake_minimum_required(VERSION 3.16)
-project(TMP) # template
+project(RCG) # readChatGPT
 add_compile_options(-fdiagnostics-color=always)
 
 set(CMAKE_CXX_STANDARD 23)
 
 # ソースファイル
 set(SOURCES
+	main.cpp
+	json.cpp
 )
 
 add_compile_options(-fexec-charset=cp932)

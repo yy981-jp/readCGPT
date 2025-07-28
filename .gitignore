@@ -3,4 +3,8 @@
 *.exe
 
 /output/
+/input/
 chat.html
+*.html
+*.txt
+*.json

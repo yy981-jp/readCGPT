@@ -7,7 +7,8 @@ set(CMAKE_CXX_STANDARD 23)
 # ソースファイル
 set(SOURCES
 	main.cpp
-	json.cpp
+	extractJson.cpp
+	parse.cpp
 )
 
 add_compile_options(-fexec-charset=cp932)

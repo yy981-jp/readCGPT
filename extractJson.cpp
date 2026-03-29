@@ -1,3 +1,7 @@
+#include <iostream>
+#include <string>
+#include <stdexcept>
+
 std::string extractJsonData(const std::string &html) {
 	std::size_t start = html.find("var jsonData = ");
 	if (start == std::string::npos) throw std::runtime_error("jsonDataの開始が見つからない");

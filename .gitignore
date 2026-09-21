@@ -1,16 +1,3 @@
-/build/
-*.o
-*.exe
-
-/output/
-<<<<<<< HEAD
-/input/
-chat.html
-*.html
-*.txt
 *.json
-=======
-chat.html
-chat.json
 *.db
->>>>>>> v2
+/build/

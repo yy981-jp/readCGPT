@@ -5,5 +5,5 @@
 *.exe
 
 /output/
-chat.html
-chat.json
+*.html
+*.json

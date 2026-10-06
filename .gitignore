@@ -1,8 +1,9 @@
+*.json
+*.db
 /build/
 *.o
 *.exe
 
 /output/
-chat.html
-chat.json
-*.db
+*.html
+*.json
